@@ -1,0 +1,21 @@
+#+title: Juicebox
+#+author: Damian Suarez
+
+This is a TUI music player written in common lisp, inspired by
+[[i][cmus]]
+
+* Roadmap
+** TODO Implement the music backend
+Could be done using harmony or mixalot
+
+** TODO Implement the file reading
+using taglib seems like the best way
+
+** TODO Implement the TUI Frontend
+This should be done in the whole cl-tui library
+
+* License
+This project is licensed under the GPL v3
+
+
+[[https://www.gnu.org/graphics/gplv3-with-text-136x68.png]]
