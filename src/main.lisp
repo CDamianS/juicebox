@@ -1,5 +1,6 @@
 (defpackage juicebox
-  (:use :cl))
+  (:use :cl
+	:mixalot))
 (in-package :juicebox)
 
 ;; blah blah blah.
